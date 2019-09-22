@@ -6,20 +6,13 @@ import { Tabs, Button } from "antd";
 import { Link, BrowserRouter } from "react-router-dom";
 const { TabPane } = Tabs;
 
-// const operations = (
-//   <Button type="primary">
-//     <BrowserRouter>
-//       <Link to="/blog.jsx">Blog</Link>
-//     </BrowserRouter>
-//   </Button>
-// );
+const operations = <Button type="primary">Nahian Alam</Button>;
 
 class tab1 extends Component {
   state = {};
   render() {
     return (
-      // <Tabs tabBarExtraContent={operations}>
-      <Tabs>
+      <Tabs tabBarExtraContent={operations}>
         <TabPane tab="About" key="1">
           <Pane1></Pane1>
         </TabPane>

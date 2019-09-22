@@ -23,6 +23,11 @@
   background-color: #282c34;
   border-block-end-color: #282c34;
 }
+.ant-tabs-nav-container {
+  font-size: 24px;
+  line-height: 1.5;
+  white-space: nowrap;
+}
 .ant-tabs {
   color: #f00;
   font-size: 14px;
@@ -54,6 +59,12 @@
   flex-direction: column;
   min-height: 40vh;
   font-family: "Oxygen Mono", monospace;
+}
+.ant-btn {
+  height: 32px;
+  padding: 0 25px;
+  font-size: 24px;
+  border-radius: 400px;
 }
 .worktext {
   color: #7ef99b;

@@ -13,7 +13,6 @@ class Pane1 extends Component {
         <br></br> <br></br>
         <img src={pp} className="avatar" alt="logo" />{" "}
         <h4 className="panes">
-          Hello, this is Nahian Alam. <br></br>
           I'm an aspiring Software Engineer pursuing a Computer Science degree
           at the{" "}
           <a className="App-link" href="https://www.uta.edu/">

@@ -21,7 +21,8 @@
     "react-router-dom": "^5.0.1",
     "react-scripts": "3.0.1",
     "react-scrollable-anchor": "^0.6.1",
-    "typeface-roboto": "0.0.75"
+    "typeface-roboto": "0.0.75",
+    "yarn": "^1.17.3"
   },
   "scripts": {
     "start": "react-scripts start",
