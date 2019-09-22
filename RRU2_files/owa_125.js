@@ -1,0 +1,3 @@
+self.scriptsLoaded = self.scriptsLoaded || {}; self.scriptProcessStart = self.scriptProcessStart || {}; self.scriptProcessStart['owa.SharedFolderPeoplePickerDialog.js'] = (new Date()).getTime();(window.$wj=window.$wj||[]).push([[411],{13607:function(r,e,o){"use strict";o.r(e);var n=o(5347);o.d(e,"SharedFolderPeoplePicker",function(){return n.a});var i=o(4577);o.d(e,"showSharedFolderPeoplePickerDialog",function(){return i.a})}},0,[0,1,526,178,514,105,24,116,129,362,425]]);
+//# sourceMappingURL=owa.SharedFolderPeoplePickerDialog.js.map
+self.scriptsLoaded['owa.SharedFolderPeoplePickerDialog.js'] = 1; self.scriptProcessEnd = self.scriptProcessEnd || {}; self.scriptProcessEnd['owa.SharedFolderPeoplePickerDialog.js'] = (new Date()).getTime();
