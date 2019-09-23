@@ -17,7 +17,7 @@ class Pane3 extends Component {
           <a href="https://github.com/nahianalam18">
             <img src={gitlogo} className="ssCcont" alt="logo"></img>
           </a>
-          <a href="www.linkedin.com/in/nahianalam/">
+          <a href="https://www.linkedin.com/in/nahianalam/">
             <img src={linkedinlogo} className="ssCcont" alt="logo"></img>
           </a>
           <a href="https://www.instagram.com/nahian_alam/">
