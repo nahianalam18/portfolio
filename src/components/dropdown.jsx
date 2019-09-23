@@ -24,7 +24,7 @@ class OverlayVisible extends Component {
           <a
             target="_blank"
             rel="View Link"
-            href="https://drive.google.com/file/d/1q13LJ8pxlnQyghZIo4TkkYlD1IdH5n23/view?usp=sharing"
+            href="https://drive.google.com/file/d/12OQGWA2xhcvQalJH7RzREoRMG7yGkGKl/view?usp=sharing"
           >
             View my Resume
           </a>
@@ -33,7 +33,7 @@ class OverlayVisible extends Component {
           <a
             target="_blank"
             rel="Download Link"
-            href="https://drive.google.com/uc?export=download&id=1q13LJ8pxlnQyghZIo4TkkYlD1IdH5n23"
+            href="https://drive.google.com/uc?export=download&id=12OQGWA2xhcvQalJH7RzREoRMG7yGkGKl"
           >
             Download my Resume
           </a>
