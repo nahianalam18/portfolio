@@ -28,9 +28,6 @@ class Pane3 extends Component {
             <img src={emaillogo} className="ssCcont" alt="logo"></img>
           </a>
           <br></br>
-          <a href="https://docs.google.com/presentation/d/1BGFlmfjtwaYu80MWR9NwJx5IvLyPDDwgoNFlx07ndcI/edit?usp=sharing">
-            Click me
-          </a>
           <footer>
             <p className="blueh">
               Contact information:{" "}
