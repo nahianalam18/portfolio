@@ -19,7 +19,7 @@
     "react-dom": "^16.8.6",
     "react-pdf": "^4.1.0",
     "react-router-dom": "^5.0.1",
-    "react-scripts": "3.0.1",
+    "react-scripts": "5.0.1",
     "react-scrollable-anchor": "^0.6.1",
     "typeface-roboto": "0.0.75",
     "yarn": "^1.17.3"
